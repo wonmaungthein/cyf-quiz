@@ -12,7 +12,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">CYF Quiz</h1>
         </header>
-        <Questions questions={questionList.results}/> 
+        <Questions/> 
       </div>
     );
   }
