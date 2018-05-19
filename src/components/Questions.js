@@ -5,7 +5,7 @@ import Question from './Question';
 class Questions extends Component {
 
   selectAnswer = () => {
-    
+
   }
 
   renderQuestion = (questionItem, index) => {
